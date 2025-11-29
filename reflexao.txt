@@ -1,0 +1,8 @@
+Reflexão — Git, lógica e versionamento:
+O Git funciona com lógica dedutiva pois cada comando executa ações previsíveis com base no estado do repositório. A rastreabilidade organiza o histórico de mudanças, branches representam decomposição, commits registram evolução controlada e comandos como log e diff permitem análise lógico-estruturada do projeto.
+
+1. A rastreabilidade permite manter histórico claro de mudanças e autores.
+2. Branches dividem o desenvolvimento em partes independentes (decomposição).
+3. Commits registram alterações de forma contínua e organizada.
+4. Indução = generalização; Dedução = conclusão garantida a partir de premissas.
+5. Git aplica lógica: status analisa, diff compara e log mostra evolução dedutiva.
