@@ -89,3 +89,11 @@ d147873 Adicionado resumo final baseado no git log
 
 Resumo final:
 A sequência lógica dos commits mostra o fluxo da atividade — primeiro escrevi as respostas detalhadas (1 a 5), depois no branch desenvolvimento foi inserida a segunda reflexão e análise com git diff, e no merge o conteúdo foi integrado à main, comprovando rastreabilidade e uso dedutivo do Git.
+
+
+📌 Resumo final do histórico:
+O git log mostra claramente a evolução do projeto com base lógica e rastreável. 
+Primeiro foram registradas as respostas teóricas (questões 1 a 5), depois, 
+no branch desenvolvimento, foi adicionada a segunda reflexão e análise realizada via git diff.
+Em seguida, o merge integrou as mudanças de forma controlada na main, comprovando 
+o uso de lógica dedutiva, rastreabilidade e decomposição no fluxo do Git.
