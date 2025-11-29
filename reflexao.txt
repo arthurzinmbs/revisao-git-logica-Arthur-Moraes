@@ -79,3 +79,13 @@ index ec57de9..0000000
 -Depois, no branch desenvolvimento, foi adicionada a segunda reflexão e o registro do git diff.
 -Por fim, o merge integrou os avanços no repositório principal, mantendo rastreabilidade,
 -organização e relação direta com o pensamento computacional.
+228f034 Registro do git diff adicionado ao arquivo
+2c5f5e0 Segunda reflexão sobre branches e decomposição adicionada
+bdb74a1 Respostas da atividade (1-5)
+d147873 Adicionado resumo final baseado no git log
+271c5b4 Segunda reflexão adicionada + registro do git diff
+8c7b15a Reflexão inicial e respostas teóricas (questões 1 a 5)
+
+
+Resumo final:
+A sequência lógica dos commits mostra o fluxo da atividade — primeiro escrevi as respostas detalhadas (1 a 5), depois no branch desenvolvimento foi inserida a segunda reflexão e análise com git diff, e no merge o conteúdo foi integrado à main, comprovando rastreabilidade e uso dedutivo do Git.
