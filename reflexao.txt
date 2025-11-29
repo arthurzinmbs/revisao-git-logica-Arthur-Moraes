@@ -15,3 +15,11 @@ O raciocínio indutivo parte de exemplos particulares para sugerir uma conclusã
 5. Lógica computacional e funcionamento do Git
 O Git funciona apoiado em uma estrutura lógica dedutiva: cada comando parte de um estado conhecido do repositório e retorna resultados previsíveis. O git status faz uma análise lógica comparando estado atual com o último commit; o git diff não supõe nada — ele mostra diferenças concretas entre versões; o git log oferece uma linha temporal estruturada que permite deduzir o histórico do projeto. Nada em Git é achismo: tudo é verificação, prova, registro e dedução exata do que foi feito e quando.
 
+
+
+Reflexão adicional:
+O uso de branches é uma forma clara de decomposição, pois cada ramo representa uma parte controlada e isolada do projeto. Em vez de modificar diretamente a linha principal, criamos espaços independentes para experimentar, testar e desenvolver novas funcionalidades mantendo a organização e o controle lógico sobre o software.
+
+
+Reflexão adicional:
+O uso de branches é uma forma clara de decomposição, pois cada ramo representa uma parte controlada e isolada do projeto. Em vez de modificar diretamente a linha principal, criamos espaços independentes para experimentar, testar e desenvolver novas funcionalidades mantendo a organização e o controle lógico sobre o software.
