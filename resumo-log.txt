@@ -1,0 +1,10 @@
+271c5b4 Segunda reflexão adicionada + registro do git diff
+8c7b15a Reflexão inicial e respostas teóricas (questões 1 a 5)
+
+
+Resumo final:
+O git log mostra que o projeto evoluiu de forma lógica e dedutiva.
+Primeiro foi feito o commit com a reflexão inicial das questões 1 a 5.
+Depois, no branch desenvolvimento, foi adicionada a segunda reflexão e o registro do git diff.
+Por fim, o merge integrou os avanços no repositório principal, mantendo rastreabilidade,
+organização e relação direta com o pensamento computacional.
