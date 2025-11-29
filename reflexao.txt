@@ -6,3 +6,10 @@ O Git funciona com lógica dedutiva pois cada comando executa ações previsíve
 3. Commits registram alterações de forma contínua e organizada.
 4. Indução = generalização; Dedução = conclusão garantida a partir de premissas.
 5. Git aplica lógica: status analisa, diff compara e log mostra evolução dedutiva.
+
+
+Segunda reflexão:
+A decomposição no Git se manifesta na criação e manutenção de branches, pois cada branch representa uma parte do projeto desenvolvida isoladamente. Isso permite evolução paralela, testes sem afetar o código principal e maior controle do processo.
+
+--- RESULTADO DO GIT DIFF ENTRE MAIN E DESENVOLVIMENTO ---
+
